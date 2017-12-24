@@ -1,8 +1,8 @@
 # Guzheng Keyboard
-(Guzheng: a Chinese traditional instrument)
+(Ableton Max, UC Berkeley music research language o.)
 
 ## Overview:  
-Guzheng Keyboard allows you to use just a simple computer keyboard to try out different Guzheng sounds, and accompany these sounds with some background music too. I’ve been playing Guzheng for 10+ years now and I love it deeply. I've always wanted to have a handy tool that can easily demonstrate Guzheng timbre and simple techniques, and also help integrate the acoustic Guzheng sounds into the digital world. So I developed this project.
+Guzheng Keyboard allows you to use just a simple computer keyboard to try out different Guzheng (a Chinese traditional instrument) sounds, and accompany these sounds with some background music too. I’ve been playing Guzheng for 10+ years now and I love it deeply. I've always wanted to have a handy tool that can easily demonstrate Guzheng timbre and simple techniques, and also help integrate the acoustic Guzheng sounds into the digital world. So I developed this project.
 
 ## Development:
 My biggest lesson learned from working on this project (and also through this course) about making music is don’t be afraid to experiment with the unknown! A lot of the sound synthesis here are definitely due to accidental experimentations, and I love them! The following are main concepts used in my work:
