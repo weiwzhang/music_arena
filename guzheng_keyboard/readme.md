@@ -4,6 +4,8 @@
 ## Overview:  
 Guzheng Keyboard is a small digital instrument that allows you to use just a simple computer keyboard to try out different Guzheng (a Chinese traditional instrument) sounds, and accompany these sounds with some background music too. I’ve been playing Guzheng for 10+ years now and I love it deeply. I've always wanted to have a handy tool that can easily demonstrate Guzheng timbre and simple techniques, and also help integrate the acoustic Guzheng sounds into the digital world. So I developed this project.
 
+(To see what the end product sounds like, please listen to guzheng_keyboard_demo.aif)
+
 ## Setup:
 You will need Max 7 to open and edit the files (patchers). See installation instructions here: https://cycling74.com/shop. To download odot and other Berkeley-develeped Max externals, please go to UC Berkeley CNMAT website: http://cnmat.berkeley.edu/downloads (see CNMAT Max Externals and CNMAT odot externals). It's recommended to put your Max 7 folder in your `Documents` (for Mac) or `My Documents` (for Windows) directory, and put CNMAT odot folder and CNMAT Max Externals folder in `Max 7/Packages` directory.      
 
